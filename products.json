@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "65c90594e5a17e01d4032678",
+    "name": "Laptop",
+    "quantity": 20
+  },
+  {
+    "_id": "65c905bce5a17e01d403267b",
+    "name": "SSD",
+    "quantity": 65
+  },
+  {
+    "_id": "65ca47ebf50bbc09bb99f433",
+    "name": "Smartwatch",
+    "quantity": 25
+  },
+  {
+    "_id": "65ca4825f50bbc09bb99f436",
+    "name": "Pentab",
+    "quantity": 40
+  },
+  {
+    "_id": "65ca4869f50bbc09bb99f439",
+    "name": "Book",
+    "quantity": 80
+  }
+]
