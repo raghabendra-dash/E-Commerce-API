@@ -11,6 +11,7 @@ API for an ecommerce platform allows admin to manage product inventory.The E-com
 - Node.js: A JavaScript runtime environment that allows running JavaScript on the server-side.
 - Express.js: A web application framework for Node.js, used for handling server-side logic and creating RESTful APIs.
 - MongoDB Atlas: A cloud-based-NoSQL database used for storing and retrieving product inventory data.
+- Postman API.
 
 # Project Usage Instructions:
 
