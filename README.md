@@ -1,6 +1,6 @@
 **_*Ecommerce-API*_**
 
-API for an ecommerce platform admin to manage product inventory.The E-commerce API is built using Node.js, Express.js, and MongoDB, providing functionality for the admin to manage their product inventory. The API allows for viewing the inventory, creating new products, deleting existing products, and updating the quantity of products.
+API for an ecommerce platform allows admin to manage product inventory.The E-commerce API is built using Node.js, Express.js, and MongoDB, providing functionality for the admin to manage their product inventory. The API allows for viewing the inventory, creating new products, deleting existing products, and updating the quantity of products.
 
 # 🔗 Hosted Site:
 
