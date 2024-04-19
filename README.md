@@ -2,10 +2,6 @@
 
 API for an ecommerce platform allows admin to manage product inventory.The E-commerce API is built using Node.js, Express.js, and MongoDB, providing functionality for the admin to manage their product inventory. The API allows for viewing the inventory, creating new products, deleting existing products, and updating the quantity of products.
 
-# 🔗 Hosted Site:
-
-> Check the Website  [Click Here]()
-
 # Tech Stack:
 
 - Node.js: A JavaScript runtime environment that allows running JavaScript on the server-side.
